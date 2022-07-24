@@ -1,18 +1,17 @@
-# Sejam Bem Vindos <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png" width="36" height="36" />, é o que desejo a todos <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/woman-and-man-holding-hands_1f46b.png" width="36" height="36" /> , Silvio Sena <img src="https://i.pinimg.com/564x/9d/eb/8a/9deb8af357b75f68540eb2432dc94eff.jpg" width="50" height="60" /> .
+# Sejam Bem Vindos <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png" width="36" height="36" />, é o que desejo a todos <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/woman-and-man-holding-hands_1f46b.png" width="36" height="36" /> ,<br> Silvio Sena <img src="https://i.pinimg.com/564x/9d/eb/8a/9deb8af357b75f68540eb2432dc94eff.jpg" width="50" height="60" /> .
+
+<br>
 
 ## Informções Pessoais :
 
 - :large_blue_circle: Sou formado em Sistema da Informação. :newspaper_roll:
-- :large_blue_circle: Atualmente estudo tecnologias de Front-End ( HTML, CSS E JavaScript ) e Bac-end ( Java ).
-- :large_blue_circle: Efetuo trabalhos de freelace na plataforma wordprees ( Desenvolvendo Sites ) e como tecnico de informatica.
+- :large_blue_circle: Atualmente estudo tecnologias de Front-End ( HTML, CSS E JavaScript ) e Back-End ( Java ).
+- :large_blue_circle: Efetuo trabalhos de freelancer na plataforma WordPress ( Desenvolvendo Sites ) e como técnico de informática.
 - :large_blue_circle: Contate-me pelo e-mail __silviosenna.jl@gmail.com__  :envelope:
 
+<br>
 
-
-
-
-
-### Movimentação e Linguagens
+## Movimentação e Linguagens
 
 <div align="center">  
 
@@ -22,7 +21,7 @@
 
 </div>
 
-
+<br>
 
 <!-- Formas de fazer
 ### Movimentação
@@ -36,7 +35,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacifyc&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=247ac9)](https://github.com/pacifyc)
 -->
 
-### Main skills:
+<br>
+
+## Main skills:
 
 <div style="display: inline_block"><br>
   
@@ -64,9 +65,9 @@
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+##
 
-
-# Frases que mim levaram a refletir: :paperclip:
+### Frases que mim levaram a refletir: :paperclip:
 
 - __" aquilo que meus olhos não viram ...__ <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/eyes_1f440.png" width="36" height="36" />
 
