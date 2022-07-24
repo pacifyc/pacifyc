@@ -1,23 +1,51 @@
 # Sejam Bem Vindos <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png" width="36" height="36" />, é o que desejo a todos <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/woman-and-man-holding-hands_1f46b.png" width="36" height="36" /> , Silvio Sena <img src="https://i.pinimg.com/564x/9d/eb/8a/9deb8af357b75f68540eb2432dc94eff.jpg" width="50" height="60" /> .
 
-- :large_blue_circle:: Sou formado em Sistema da Informação.
+## Informções Pessoais :
+
+- :large_blue_circle: Sou formado em Sistema da Informação. :newspaper_roll:
 - :large_blue_circle: Atualmente estudo tecnologias de Front-End ( HTML, CSS E JavaScript ) e Bac-end ( Java ).
 - :large_blue_circle: Efetuo trabalhos de freelace na plataforma wordprees ( Desenvolvendo Sites ) e como tecnico de informatica.
-- :large_blue_circle:
+- :large_blue_circle: Contate-me pelo e-mail __silviosenna.jl@gmail.com__  :envelope:
 
 
 
 
 
 
+### Movimentação e Linguagens
+
+<div align="center">  
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pacifyc&show_icons=true&title_color=fff&icon_color=fff912&text_color=4af2e4&bg_color=247ac9&count_private=true" alt="Matheus Maia Alvarez github stats" />
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifyc&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=247ac9" />
+
+</div>
+
+
+
+<!-- Formas de fazer
+### Movimentação
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=pacifyc&show_icons=true&title_color=fff&icon_color=fff912&text_color=4af2e4&bg_color=247ac9&count_private=true)](https://github.com/pacifyc)
+-->
+
+<!--
 ### Linguagens
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pacifyc)](https://github.com/pacifyc/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pacifyc)](https://github.com/pacifyc/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacifyc&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=247ac9)](https://github.com/pacifyc)
-
+-->
 
 ### Main skills:
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Silvio_Senas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Silvio_Senas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Silvio_Sena" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+</div>
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
@@ -34,13 +62,7 @@
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">  
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pacifyc&show_icons=true&title_color=fff&icon_color=fff912&text_color=4af2e4&bg_color=247ac9&count_private=true" alt="Matheus Maia Alvarez github stats" />
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifyc&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=247ac9" />
-
-</div>
 
 # Frases que mim levaram a refletir: :paperclip:
 
@@ -53,28 +75,23 @@
 ### Conclusão:
 
 ~~~bach
-
 $ Se não é coisa boa então jogue no lixo    💻
+~~~
 
 ~~~bach
-
-$ if ( não é coisa boa ){
-
+$ if ( não é coisa boa ){    💻
 ~~~
 
   <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/wrapped-gift_1f381.png" width="36" height="36" />
 
 ~~~bach
-
-}else{
+}else{    💻
 ~~~
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/307/wastebasket_1f5d1-fe0f.png" width="36" height="36" />
 
 ~~~bach
-
 } jogue no lixo    💻
-
 ~~~
 
 
