@@ -116,7 +116,7 @@ $ if ( não é coisa boa ){    💻
 
   <div align="center">
 <br><p align="centre"><b>Contagem de Visitanes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pacific/count.svg" /></p> 
 <br></div>
 
 
