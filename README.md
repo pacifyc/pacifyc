@@ -114,7 +114,10 @@ $ if ( não é coisa boa ){    💻
 } jogue no lixo    💻
 ~~~
 
-
+  <div align="center">
+<br><p align="centre"><b>Contagem de Visitanes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<br></div>
 
 
 <!--
