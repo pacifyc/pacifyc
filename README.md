@@ -20,15 +20,19 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifyc&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=247ac9" />
 
 </div>
+<div>
+  ![Snake animation](https://github.com/pacifyc/pacifyc/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <br>
 
-<!-- Formas de fazer
+<!-- Formas de fazer com markdown
 ### Movimentação
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=pacifyc&show_icons=true&title_color=fff&icon_color=fff912&text_color=4af2e4&bg_color=247ac9&count_private=true)](https://github.com/pacifyc)
 -->
 
-<!-- Formas de fazer
+<!-- Formas de fazer com markdown
 ### Linguagens
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pacifyc)](https://github.com/pacifyc/github-readme-stats)
 
@@ -51,43 +55,34 @@
 
 ## Tecnologias skills que utilizei:
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   
   <img align="center" alt="Silvio_Senas-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" />
   <img align="center" alt="Silvio_Senas-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="center" alt="Silvio_Senas-HTML" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  
+  <br>
 </div>
 
 ## Rede Sosial:
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
 
-  <img align="center" alt="Silvio_Sena-Java" height="40" width="140" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img align="center" alt="Silvio_Sena-Java" height="40" width="140" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
+  <a href="https://www.linkedin.com/in/silviosena/" target="_blank"><img align="center" alt="Silvio_Sena-Linkedin" height="40" width="160" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/pacifyc" target="_blank"><img align="center" alt="Silvio_Sena-GitHub" height="40" width="160" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <br>
 </div>
 
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pacifyc)
+<!-- Forma de fazer com markdown
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/)&nbsp;
 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+-->
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-
-
-### Studying in this moment:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-##
+<div>
+<br>
 
 ### Frases que mim levaram a refletir: :paperclip:
+  ##
 
 - __" aquilo que meus olhos não viram ...__ <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/eyes_1f440.png" width="36" height="36" />
 
