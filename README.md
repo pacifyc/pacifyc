@@ -1,6 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Silvio Sena &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=247ac9&height=180&section=header&text=Silvio Sena &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# Sejam Bem Vindos <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png" width="36" height="36" />, é o que desejo a todos <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/woman-and-man-holding-hands_1f46b.png" width="36" height="36" /> ,<br> Silvio Sena <img src="https://i.pinimg.com/564x/9d/eb/8a/9deb8af357b75f68540eb2432dc94eff.jpg" width="50" height="60" /> .
+<div align="center">
+
+  ## Sejam Bem Vindos <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png" width="36" height="36" />, é o que desejo a todos <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/woman-and-man-holding-hands_1f46b.png" width="36" height="36" /> , Silvio Sena <img src="https://i.pinimg.com/564x/9d/eb/8a/9deb8af357b75f68540eb2432dc94eff.jpg" width="50" height="60" /> .
+
+</div>
+
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&color=247ac9&width=380&height=50">
+</p>
 
 <br>
 
@@ -13,23 +22,6 @@
 
 <br>
 
-## Movimentação e Linguagens
-
-<div align="center">  
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pacifyc&show_icons=true&title_color=fff&icon_color=fff912&text_color=4af2e4&bg_color=247ac9&count_private=true" alt="Matheus Maia Alvarez github stats" />
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifyc&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=247ac9" />
-
-</div>
-<div>
-<!--  ![Snake animation](https://github.com/pacifyc/pacifyc/blob/output/github-contribution-grid-snake.svg) -->
-  
-  ![Snake animation](https://github.com/pacifyc/pacifyc/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<br>
 
 <!-- Formas de fazer com markdown
 ### Movimentação
@@ -75,6 +67,25 @@
   <a href="https://github.com/pacifyc" target="_blank"><img align="center" alt="Silvio_Sena-GitHub" height="40" width="160" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <br>
 </div>
+
+
+## Movimentação e Linguagens
+
+<div align="center">  
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pacifyc&show_icons=true&title_color=fff&icon_color=fff912&text_color=4af2e4&bg_color=247ac9&count_private=true" alt="Matheus Maia Alvarez github stats" />
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifyc&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=247ac9" />
+
+</div>
+<div>
+<!--  ![Snake animation](https://github.com/pacifyc/pacifyc/blob/output/github-contribution-grid-snake.svg) -->
+  
+  ![Snake animation](https://github.com/pacifyc/pacifyc/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<br>
 
 <!-- Forma de fazer com markdown
 
