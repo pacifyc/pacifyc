@@ -8,10 +8,16 @@
 
 <br>
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sou+Brasileiro;Moro+em+Recife;Sou+um+admirador+por+tecnologia;e+invisto;no+meu+crescimento+profissional!&font=Fira%20Code&center=true&color=247ac9&width=380&height=50">
+</p>
+<br>
+
+<!--
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Sou+Brasileiro+everywhere!;Moro+em+Recife+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&color=247ac9&width=380&height=50">
 </p>
+-->
 
-<br>
 
 ## Informções Pessoais :
 
@@ -46,6 +52,9 @@
   <img align="center" alt="Silvio_Senas-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img align="center" alt="Silvio_Sena" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />  
   <img align="center" alt="Silvio_Sena-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  
+  <img align="center" alt="Silvio_Sena-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+          
   <br>
 </div>
 
