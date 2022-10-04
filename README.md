@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=247ac9&height=180&section=header&text=Silvio_Sena&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
+<img width=100% src=""/>
 <div align="center">
 
   ## Sejam Bem Vindos <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png" width="36" height="36" />, é o que desejo a todos <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/woman-and-man-holding-hands_1f46b.png" width="36" height="36" /> , Silvio Sena <img src="https://i.pinimg.com/564x/9d/eb/8a/9deb8af357b75f68540eb2432dc94eff.jpg" width="50" height="60" /> .
